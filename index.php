@@ -26,7 +26,7 @@
 
 <section class="header ">
 
-   <a href="home.php" class="logo text-decoration-none"> <i class="bi bi-airplane fs-1"></i> travel</a>
+   <a href="index.php" class="logo text-decoration-none"> <i class="bi bi-airplane fs-1"></i> travel</a>
 
    <nav class="navbar ">
       <a class="text-decoration-none"  href="index.php">home</a>
