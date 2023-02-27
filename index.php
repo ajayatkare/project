@@ -29,7 +29,7 @@
    <a href="home.php" class="logo text-decoration-none"> <i class="bi bi-airplane fs-1"></i> travel</a>
 
    <nav class="navbar ">
-      <a class="text-decoration-none"  href="home.php">home</a>
+      <a class="text-decoration-none"  href="index.php">home</a>
       <a class="text-decoration-none" href="about.php">about</a>
       <a class="text-decoration-none" href="package.php">package</a>
       <a class="text-decoration-none" href="book.php">book</a>
